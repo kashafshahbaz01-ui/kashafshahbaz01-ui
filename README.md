@@ -1,65 +1,55 @@
-# Hi there, I'm Kashaf Shahbaz! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%90%A7;I'm+Kashaf+Shahbaz;Python+%26+TypeScript+Developer;Linux+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashafshahbazz&label=Profile%20views&color=0e75b6&style=flat" alt="Kashaf Shahbaz GitHub Profile Views" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-python.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-typescript.svg" width="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-html.svg" width="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-css.svg" width="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-linux.svg" width="40" alt="Linux" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 Tech Enthusiast passionate about building web applications and exploring modern technologies.
-- 🐧 Love working with **Linux** environments and open-source tools.
-- 🎯 Always learning and looking for new collaborative projects to work on!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Web Technologies:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Operating Systems & Environments:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashafshahbazz&show_icons=true&theme=radial&hide_border=true" alt="Kashaf's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashafshahbazz&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📂 Featured Repositories
-
-Below are some of my highlighted projects:
-
-<!-- Note: Replace "kashafshahbazz" and "repo-name" with your actual GitHub username and repository names -->
-
-<p align="center">
-  <a href="https://github.com/kashafshahbazz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashafshahbazz&repo=repo-name-1&theme=radial" alt="Repository 1" />
-  </a>
-  <a href="https://github.com/kashafshahbazz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashafshahbazz&repo=repo-name-2&theme=radial" alt="Repository 2" />
+  <a href="https://github.com/KashafShahbaz">
+    <img src="https://komarev.com/ghpvc/?username=KashafShahbaz&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-## 📫 Let's Connect!
+### 🚀 About Me
 
-- **GitHub:** [@kashafshahbazz](https://github.com/kashafshahbazz)
-- 💬 Ask me about **Python, TypeScript, Web Dev, or Linux**!
+```bash
+kashaf@linux:~ $ cat intro.txt
+```
+> 👋 Hello! I'm **Kashaf Shahbaz**, a software developer passionate about building web applications and navigating Linux environments.
+> 
+> - 🔭 **Currently focusing on:** Advanced Python & TypeScript architectures
+> - 🐧 **OS of choice:** Linux 
+> - ⚡ **Fun Fact:** The terminal is my comfort zone!
+
+---
+
+### 💻 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **OS & Tools** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+
+---
+
+### 📁 Featured Repositories
+
+| Repository | Description | Status |
+| :--- | :--- | :---: |
+| ✨ [**Repo-1**](https://github.com/KashafShahbaz/repo-name-1) | *Awesome project built with Python / TypeScript* | 🚀 Active |
+| ⚡ [**Repo-2**](https://github.com/KashafShahbaz/repo-name-2) | *Web frontend project using HTML5 & CSS3* | 🚧 In Progress |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:61afef&height=120&section=footer" width="100%" />
+</p>
