@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Kashaf Shahbaz! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:38BDF8&height=240&section=header&text=Kashaf%20Shahbaz&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI%2FML%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Kashaf Shahbaz - Full-Stack & Mobile Developer | AI/ML Engineer" />
+</p>
+
+<h3 align="center">Hi there, I'm Kashaf! 👋</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -19,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KashafShahbaz&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kashafshahbaz01-ui&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -128,8 +132,8 @@ kashaf@linux:~ $ cat intro.txt
 | :--- | :--- | :--- | :--- |
 | 🏥 **Code Blue (CodeBlue Healthcare Pakistan)** | *Hiring platform for healthcare professionals in Pakistan, with a redesigned homepage: hero with job search, role cards, featured jobs, how-it-works, testimonials, and CTA* | `Next.js` `React` `TypeScript` | 🚀 Active |
 | 🪸 **Coral Reef Classification** | *CNN-based image classification for coral image analysis* | `Python` `TensorFlow` `Keras` | ✅ Completed |
-| 🐍 [**Python Projects**](https://github.com/KashafShahbaz) | *Useful scripts and backend tools built with Python* | `Python` | 🚀 Active |
-| ⚡ [**Web Applications**](https://github.com/KashafShahbaz) | *Responsive frontend builds and TypeScript modules* | `TypeScript` `HTML` `CSS` | 🚧 In Progress |
+| 🐍 [**Python Projects**](https://github.com/kashafshahbaz01-ui) | *Useful scripts and backend tools built with Python* | `Python` | 🚀 Active |
+| ⚡ [**Web Applications**](https://github.com/kashafshahbaz01-ui) | *Responsive frontend builds and TypeScript modules* | `TypeScript` `HTML` `CSS` | 🚧 In Progress |
 
 ---
 
@@ -153,5 +157,5 @@ kashaf@linux:~ $ cat intro.txt
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0369A1&height=120&section=footer" width="100%" />
 </p>
