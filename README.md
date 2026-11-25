@@ -53,7 +53,7 @@ kashaf@linux:~ $ cat intro.txt
 
 > 💻 **Developer Profile**
 >
-> * 🔭 **Focus:** Full-stack developer with **4+ years** of experience building scalable web and mobile apps with **React, Next.js, Node.js, TypeScript, and Python**.
+> * 🔭 **Focus:** Full-stack developer with **2+ years** of experience building scalable web and mobile apps with **React, Next.js, Node.js, TypeScript, and Python**.
 > * 🌐 **Web Development:** Fast, responsive interfaces with **Next.js**, **Tailwind CSS**, **HTML5** & **CSS3**, translating Figma designs into production code.
 > * 📱 **Mobile:** Cross-platform apps with **React Native** and **Expo**.
 > * ⚙️ **Backend:** REST APIs, microservices, and third-party integrations with **Node.js, Express, NestJS, Fastify, FastAPI, and Flask**.
